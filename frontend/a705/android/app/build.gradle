@@ -24,6 +24,7 @@ if (flutterVersionName == null) {
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
+apply plugin: 'com.google.gms.google-services'
 
 android {
     namespace "com.ssafy.a705.a705"
@@ -40,10 +41,17 @@ android {
         applicationId "com.ssafy.a705.a705"
         // You can update the following values to match your application needs.
         // For more information, see: https://docs.flutter.dev/deployment/android#reviewing-the-gradle-build-configuration.
-        minSdkVersion flutter.minSdkVersion
-        targetSdkVersion flutter.targetSdkVersion
+        minSdkVersion 21
+        targetSdkVersion 28
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
+        // MultiDex 허용
+        multiDexEnabled true
+    }
+    dependencies {
+        // androidx를 사용하는 경우
+        implementation 'androidx.multidex:multidex:2.0.1'
+
     }
 
     buildTypes {
