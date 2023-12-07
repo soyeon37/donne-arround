@@ -50,14 +50,14 @@
 <img src="./document/upload/거래등록-1.png" alt="거래등록-1" width="200">
 
 거래글 조회  
-<img src="./document/upload/0b40ee7206e2096f9353b1a0bdacb8e1/거래글조회-1.png" alt="거래글조회-1" width="200">
-<img src="./document/upload/522eb42f8b20f0d2efd7cb9665b88b45/거래글조회-2.png" alt="거래글조회-2" width="200">
+<img src="./document/upload/거래글조회-1.png" alt="거래글조회-1" width="200">
+<img src="./document/upload/거래글조회-2.png" alt="거래글조회-2" width="200">
 
 ### 채팅 기능
-<img src="./document/upload/86d1558993bc2ce5248a20b7e18afdc1/채팅-1.png" alt="채팅-1" width="200">
-<img src="./document/upload/fadd8bb0474c8387dc47c2b53db110b6/채팅-약속잡기-2.png" alt="채팅-약속잡기-2" width="200">
-<img src="./document/upload/1e65fea895965ccb39c514b5116de058/채팅-약속잡기-3.png" alt="채팅-약속잡기-3" width="200">
-<img src="./document/upload/762978c6012f59f22a06118e976a0700/채팅-약속잡기-1.png" alt="채팅-약속잡기-1" width="200">
+<img src="./document/upload/채팅-1.png" alt="채팅-1" width="200">
+<img src="./document/upload/채팅-약속잡기-2.png" alt="채팅-약속잡기-2" width="200">
+<img src="./document/upload/채팅-약속잡기-3.png" alt="채팅-약속잡기-3" width="200">
+<img src="./document/upload/채팅-약속잡기-1.png" alt="채팅-약속잡기-1" width="200">
 
 ### 환율 정보 기능
 실시간 환율 검색  
