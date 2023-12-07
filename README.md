@@ -39,42 +39,43 @@
 [![figma](/document/upload/figma.png)](https://www.figma.com/file/mOK3HCg1Ux9OTorwEqosdo/%EB%8F%88%EB%84%A4%ED%95%9C%EB%B0%94%ED%80%B4?type=design&node-id=0-1&mode=design)
 
 ### 회원가입/로그인
-![Screenshot_20231123_160232](/document/upload/Screenshot_20231123_160232.png){: width="200"}
-![Screenshot_20231123_160301](/document/upload/Screenshot_20231123_160301.png){: width="200"}
-![Screenshot_20231123_160702](/document/upload/Screenshot_20231123_160702.png){: width="200"}
+<img src="./document/upload/Screenshot_20231123_160232.png" alt="로그인-1" width="200">
+<img src="./document/upload/Screenshot_20231123_160301.png" alt="회원가입-1" width="200">
+<img src="./document/upload/Screenshot_20231123_160702.png" alt="로그인-2" width="200">
+
 
 ### 거래 기능
 거래글 목록 조회/거래글 등록  
-![거래메인-1](/document/upload/거래메인-1.png){: width="200"}
-![거래등록-1](/document/upload/거래등록-1.png){: width="200"}
+<img src="./document/upload/거래메인-1.png" alt="거래메인-1" width="200">
+<img src="./document/upload/거래등록-1.png" alt="거래등록-1" width="200">
 
 거래글 조회  
-![거래글조회-1](/document/upload/0b40ee7206e2096f9353b1a0bdacb8e1/거래글조회-1.png){: width="200"}
-![거래글조회-2](/document/upload/522eb42f8b20f0d2efd7cb9665b88b45/거래글조회-2.png){: width="200"}
+<img src="./document/upload/0b40ee7206e2096f9353b1a0bdacb8e1/거래글조회-1.png" alt="거래글조회-1" width="200">
+<img src="./document/upload/522eb42f8b20f0d2efd7cb9665b88b45/거래글조회-2.png" alt="거래글조회-2" width="200">
 
 ### 채팅 기능
-![채팅-1](/document/upload/86d1558993bc2ce5248a20b7e18afdc1/채팅-1.png){: width="200"}
-![채팅-약속잡기-2](/document/upload/fadd8bb0474c8387dc47c2b53db110b6/채팅-약속잡기-2.png){: width="200"}
-![채팅-약속잡기-3](/document/upload/1e65fea895965ccb39c514b5116de058/채팅-약속잡기-3.png){: width="200"}
-![채팅-약속잡기-1](/document/upload/762978c6012f59f22a06118e976a0700/채팅-약속잡기-1.png){: width="200"}
+<img src="./document/upload/86d1558993bc2ce5248a20b7e18afdc1/채팅-1.png" alt="채팅-1" width="200">
+<img src="./document/upload/fadd8bb0474c8387dc47c2b53db110b6/채팅-약속잡기-2.png" alt="채팅-약속잡기-2" width="200">
+<img src="./document/upload/1e65fea895965ccb39c514b5116de058/채팅-약속잡기-3.png" alt="채팅-약속잡기-3" width="200">
+<img src="./document/upload/762978c6012f59f22a06118e976a0700/채팅-약속잡기-1.png" alt="채팅-약속잡기-1" width="200">
 
 ### 환율 정보 기능
 실시간 환율 검색  
-![환율정보-1](/document/upload/환율정보-1.png){: width="200"}
-![환율정보-2](/document/upload/환율정보-2.png){: width="200"}
+<img src="./document/upload/환율정보-1.png" alt="환율정보-1" width="200">
+<img src="./document/upload/환율정보-2.png" alt="환율정보-2" width="200">
 
 은행별 환율 검색  
-![환율검색-은행별](/document/upload/환율검색-은행별.png){: width="200"}
-![환율검색-직접](/document/upload/환율검색-직접.png){: width="200"}
+<img src="./document/upload/환율검색-은행별.png" alt="환율검색-은행별" width="200">
+<img src="./document/upload/환율검색-직접.png" alt="환율검색-직접" width="200">
 
 ### 환율 계산 기능
-![환율계산-이익손실](/document/upload/환율계산-이익손실.png){: width="200"}
+<img src="./document/upload/환율계산-이익손실.png" alt="환율계산-이익손실" width="200">
 
 ### 마이페이지
-![마이페이지-1](/document/upload/마이페이지-1.png){: width="200"}
-![마이페이지-2](/document/upload/마이페이지-2.png){: width="200"}
-![마이페이지-로그아웃](/document/upload/마이페이지-로그아웃.png){: width="200"}
-![마이페이지-탈퇴하기](/document/upload/마이페이지-탈퇴하기.png){: width="200"}
+<img src="./document/upload/마이페이지-1.png" alt="마이페이지-1" width="200">
+<img src="./document/upload/마이페이지-2.png" alt="마이페이지-2" width="200">
+<img src="./document/upload/마이페이지-로그아웃.png" alt="마이페이지-로그아웃" width="200">
+<img src="./document/upload/마이페이지-탈퇴하기.png" alt="마이페이지-탈퇴하기" width="200">
 
 <br>
 
